@@ -1,6 +1,6 @@
-#S7 : TD de Java
+# S7 : TD de Java
 
-##Prétention du projet
+## Prétention du projet
 
 - Ajouter un menu Play : possibilité de lancer en appuayant sur le bouton oubien avec la touche espace
 - Ecran Game Over avec option de rejouer 
